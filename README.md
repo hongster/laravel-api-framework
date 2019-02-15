@@ -27,6 +27,6 @@ To generate API errors,
 1. **MUST** define an application-wide unique `$code`. (Sample: `App\Api\Exceptions\SampleException`)
 1. Record this error code in root README.md file so that other developers know about it.
 
-# TDOD
+# TODO
 
 - [ ] Convert this into Composer package.
